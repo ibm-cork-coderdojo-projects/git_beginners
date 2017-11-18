@@ -6,3 +6,5 @@
 #EimearKelly:
 # EimearKelly::
 # Bye Bye
+# buenos dias, ohayou gozaimasu
+# TooFiveFive
