@@ -2,6 +2,6 @@
  # cmurphy : member
  # ciaransheil
 # ciaransheil2
-# Shane Collins
+# Shane Collins : Lord
 #EimearKelly:
 # EimearKelly::
