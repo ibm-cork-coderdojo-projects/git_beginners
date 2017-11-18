@@ -5,5 +5,5 @@
 # Shane Collins : Lord
 #EimearKelly:
 # EimearKelly::
-buenos dias, ohayou gozaimasu
+# buenos dias, ohayou gozaimasu
 # TooFiveFive
