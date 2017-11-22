@@ -1,12 +1,9 @@
-# git_beginners
+# GIT_BEGINNERS
 # cmurphy : member
 # ciaransheil
 # ciaransheil2
 # Shane Collins : Lord
 # EimearKelly:
-# EimearKelly::
-# Bye Bye
+# EimearKelly:
 # buenos dias, ohayou gozaimasu
 # TooFiveFive
-# Any one there?
-# Hello!
