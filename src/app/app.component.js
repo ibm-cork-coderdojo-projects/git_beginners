@@ -17,6 +17,7 @@ var AppComponent = (function () {
         * 3.1 This is where we can define any variables or functions that our components templates can use.
         * */
         this.name = 'New CoderDojos_2 HTML...'; // 3.1
+        this.colour = 'Blu';
     }
     return AppComponent;
 }());

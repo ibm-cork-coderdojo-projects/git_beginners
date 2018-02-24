@@ -24,6 +24,7 @@ export class AppComponent {
     * */
 
     name = 'New CoderDojos_2 HTML...';  // 3.1
+    colour= 'Blu'
 
 }
 
