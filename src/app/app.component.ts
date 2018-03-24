@@ -24,7 +24,11 @@ export class AppComponent {
     * */
 
     name = 'New CoderDojos_2 HTML...';  // 3.1
+
     image = 'assets/img/coderdojo_trans.png'
+
+    colour= 'Blu'
+
 }
 
 
