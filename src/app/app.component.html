@@ -1,10 +1,18 @@
-<h1>Hello {{name}}</h1>
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <span class="toolbar-logo" >
+      <img  src="../assets/icon/favicon-96x96.png">
+    </span>
+    <span class="spacer">
+    </span>
+    <button mat-button routerLink="/home">Home</button>
+  </mat-toolbar-row>
+</mat-toolbar>
 
-<p>Hi! My name is Thomas, and I loooove tellytubbies, I am also a seasoned actor in the anime; "Thomas & Friends ;P"</p>
-<img src="assets/img/death.png">
-<h3>Shane was HERE!!</h3>
-<img src={{image}}>
 
-<p>My favourite colour is {{colour}}</p>
-<img src="assets/img/anUnknownApe.jpg" width ="300px" height="250px" />
 
+
+<router-outlet>
+
+
+</router-outlet>
