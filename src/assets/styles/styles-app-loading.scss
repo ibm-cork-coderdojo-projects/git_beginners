@@ -1,0 +1,33 @@
+.app-loading {
+  .logo {
+    width: 100px;
+    height: 100px;
+    // this way asset gets processed by webpack
+    background:
+      url(../img/coderDojo-loading-icon.png)
+      center center no-repeat;
+  }
+}
+body, html {
+  height: 100%;
+}
+.app-loading {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.app-loading .spinner {
+  height: 300px;
+  width: 300px;
+  animation: rotate 2s linear infinite;
+  transform-origin: center center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
