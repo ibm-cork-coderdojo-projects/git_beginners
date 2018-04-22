@@ -1,0 +1,18 @@
+/*styles for MichaelComponent content only*/
+.grid-list {
+  width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
+  .mat-card {
+    margin: 16px 0;
+  }
+  p {
+    margin: 16px;
+  }
+  .basic-list .mat-grid-tile {
+    background: rgba(0, 0, 0, 0.32);
+  }
+  img {
+    width: 500px;
+  }
+}
